@@ -1,0 +1,5 @@
+{
+  "name": "SLJ AR QR",
+  "description": "Scan real-world objects, generate 3D models, and view them in augmented reality (AR) via QR codes.",
+  "requestFramePermissions": ["camera"]
+}
